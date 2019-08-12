@@ -14,9 +14,6 @@
     "baseUrl": ".",
     "allowJs": true
   },
-  "files": [
-    "strict-uri-encode/index.js"
-  ],
   "exclude": [
     "node_modules"
   ]
