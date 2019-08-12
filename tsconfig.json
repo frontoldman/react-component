@@ -1,0 +1,23 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "moduleResolution": "node",
+    "jsx": "react",
+    "allowSyntheticDefaultImports": true,
+    "experimentalDecorators": true,
+    "lib": [
+      "es5",
+      "dom",
+      "dom.iterable",
+      "es2015"
+    ],
+    "baseUrl": ".",
+    "allowJs": true
+  },
+  "files": [
+    "strict-uri-encode/index.js"
+  ],
+  "exclude": [
+    "node_modules"
+  ]
+}
